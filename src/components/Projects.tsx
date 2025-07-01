@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { ExternalLink, Github, Film, CreditCard } from 'lucide-react';
 
@@ -8,7 +7,7 @@ const Projects = () => {
       title: 'Movie Information Website',
       description: 'Developed a movie search web application using the OMDB API to fetch and display movie details based on user input.',
       technologies: ['Python', 'HTML', 'CSS'],
-      githubUrl: 'https://github.com/Abhigna04/Movie-Info-Website',
+      githubUrl: 'https://github.com/Abhigna04/Movie-Information-Website',
       liveUrl: '',
       icon: Film
     },
