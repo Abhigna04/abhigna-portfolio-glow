@@ -16,15 +16,6 @@ const Footer = () => {
     <footer className="py-12 border-t border-slate-800">
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <div className="mb-8">
-            <h3 className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent mb-4">
-              Vakada Abhigna
-            </h3>
-            <p className="text-slate-400 max-w-2xl mx-auto">
-              Passionate developer creating impactful solutions through code. Always eager to learn and grow.
-            </p>
-          </div>
-          
           <div className="flex justify-center space-x-6 mb-8">
             {socialLinks.map((link, index) => (
               <a
