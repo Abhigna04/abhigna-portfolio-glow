@@ -34,7 +34,7 @@ const About = () => {
                   <div className="border-l-2 border-cyan-400 pl-4">
                     <h4 className="font-semibold text-cyan-400">B.Tech - AI & Machine Learning</h4>
                     <p className="text-slate-300">Pragati Engineering College</p>
-                    <p className="text-sm text-slate-400">CGPA: 8.5 (Expected 2026)</p>
+                    <p className="text-sm text-slate-400">CGPA: 8.4 (Expected 2026)</p>
                   </div>
                   <div className="border-l-2 border-purple-400 pl-4">
                     <h4 className="font-semibold text-purple-400">Intermediate - MPC</h4>
