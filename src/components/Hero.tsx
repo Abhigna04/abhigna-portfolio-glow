@@ -17,19 +17,19 @@ const Hero = () => {
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto mb-8 rounded-full bg-gradient-to-r from-cyan-400 to-purple-400 p-1">
               <div className="w-full h-full rounded-full bg-slate-900 flex items-center justify-center">
-                <span className="text-4xl font-bold text-white">VA</span>
+                <span className="text-4xl font-bold text-white tracking-wide">VA</span>
               </div>
             </div>
             
-            <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent animate-fade-in">
+            <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent animate-fade-in tracking-wide font-display">
               Vakada Abhigna
             </h1>
             
-            <p className="text-2xl md:text-3xl text-slate-300 mb-6 animate-fade-in animation-delay-200">
+            <p className="text-2xl md:text-3xl text-slate-300 mb-6 animate-fade-in animation-delay-200 tracking-wide">
               Developer
             </p>
             
-            <p className="text-lg md:text-xl text-slate-400 max-w-3xl mx-auto leading-relaxed animate-fade-in animation-delay-400">
+            <p className="text-lg md:text-xl text-slate-400 max-w-3xl mx-auto leading-relaxed animate-fade-in animation-delay-400 tracking-normal">
               I am a passionate developer with strong problem-solving abilities and a drive for continuous learning. 
               I love transforming innovative ideas into impactful, real-world applications through code.
             </p>

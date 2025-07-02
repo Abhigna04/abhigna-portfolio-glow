@@ -26,7 +26,7 @@ const Header = () => {
     <header className="fixed top-0 w-full bg-slate-900/80 backdrop-blur-md border-b border-slate-800 z-50">
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          <div className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
+          <div className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent tracking-wide font-display">
             Vakada Abhigna
           </div>
           

@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { ExternalLink, Github, Film, CreditCard } from 'lucide-react';
 
@@ -25,7 +26,7 @@ const Projects = () => {
     <section id="projects" className="py-20 bg-slate-800/30">
       <div className="container mx-auto px-6">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
+          <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent tracking-wide font-display">
             Projects
           </h2>
           
@@ -37,7 +38,7 @@ const Projects = () => {
               >
                 <div className="flex items-center mb-4">
                   <project.icon className="w-8 h-8 text-cyan-400 mr-3" />
-                  <h3 className="text-xl font-semibold text-white group-hover:text-cyan-400 transition-colors">
+                  <h3 className="text-xl font-semibold text-white group-hover:text-cyan-400 transition-colors tracking-wide">
                     {project.title}
                   </h3>
                 </div>
